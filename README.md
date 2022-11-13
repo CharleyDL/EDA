@@ -1,2 +1,3 @@
-# EDA
-EDA DieTanic et EDA House Prices
+# EDA - Exploratory Data Analysis:
+- EDA DieTanic
+- EDA House Prices
